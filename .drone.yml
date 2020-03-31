@@ -8,6 +8,7 @@ steps:
           image: alpine
           commands:
                   - echo HelloWorld
+                  - echo Brian this is the start
 
 
 
