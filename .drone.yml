@@ -12,6 +12,7 @@ steps:
                   - echo Brian this is next addition to the text
                   - sleep 20
                   - echo Finshed
+                  - echo Really finished now
 
 
 
